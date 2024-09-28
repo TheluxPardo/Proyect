@@ -1,0 +1,28 @@
+.role-selection {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .role-selection ion-button {
+    margin: 0 10px;
+  }
+
+  .login-container {
+
+    .forgot-password-link {
+      margin-top: 10px; /* Espaciado entre el campo de clave y el enlace */
+      text-align: center;
+      display: block;
+      
+    }
+
+    .login-button {
+      width: 70%;  /* Ajusta el tamaño del botón a 70% del contenedor */
+      font-size: 0.9rem; /* Reduce el tamaño de la fuente */
+      margin-top: 20px; /* Desplaza el botón más abajo */
+      padding: 10px 0; /* Ajusta el espacio dentro del botón para hacerlo más pequeño */
+    }
+  }
+  
+  
